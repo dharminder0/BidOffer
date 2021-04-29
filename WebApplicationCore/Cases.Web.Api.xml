@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Cases.Web.Api</name>
+    </assembly>
+    <members>
+        <member name="P:Cases.Web.Api.Filters.CcsAuthorizeAttribute.BearerKey">
+            <summary>
+            this will have default bearer
+            Default Bearer authorization key is (AuthorizationBearer) or pass a new BearerKey to attribute properties
+            </summary>
+        </member>
+        <member name="M:Cases.Web.Api.Filters.CcsAuthorizeAttribute.OnActionExecuting(Microsoft.AspNetCore.Mvc.Filters.ActionExecutingContext)">
+            <summary>
+            check for authorize caller by header value
+            </summary>
+            <param name="actionContext"></param>
+        </member>
+    </members>
+</doc>

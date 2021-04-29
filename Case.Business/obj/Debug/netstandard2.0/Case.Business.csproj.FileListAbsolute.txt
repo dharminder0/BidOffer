@@ -1,0 +1,9 @@
+C:\Users\fleek\source\repos\WebApplicationCore\Case.Business\bin\Debug\netstandard2.0\Case.Business.deps.json
+C:\Users\fleek\source\repos\WebApplicationCore\Case.Business\bin\Debug\netstandard2.0\Case.Business.dll
+C:\Users\fleek\source\repos\WebApplicationCore\Case.Business\bin\Debug\netstandard2.0\Case.Business.pdb
+C:\Users\fleek\source\repos\WebApplicationCore\Case.Business\obj\Debug\netstandard2.0\Case.Business.AssemblyInfoInputs.cache
+C:\Users\fleek\source\repos\WebApplicationCore\Case.Business\obj\Debug\netstandard2.0\Case.Business.AssemblyInfo.cs
+C:\Users\fleek\source\repos\WebApplicationCore\Case.Business\obj\Debug\netstandard2.0\Case.Business.csproj.CoreCompileInputs.cache
+C:\Users\fleek\source\repos\WebApplicationCore\Case.Business\obj\Debug\netstandard2.0\Case.Business.dll
+C:\Users\fleek\source\repos\WebApplicationCore\Case.Business\obj\Debug\netstandard2.0\Case.Business.pdb
+C:\Users\fleek\source\repos\WebApplicationCore\Case.Business\obj\Debug\netstandard2.0\Case.Business.csprojAssemblyReference.cache
