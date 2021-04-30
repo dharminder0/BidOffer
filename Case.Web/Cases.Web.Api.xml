@@ -4,6 +4,27 @@
         <name>Cases.Web.Api</name>
     </assembly>
     <members>
+        <member name="M:Cases.Web.Api.Controllers.InternalController.GenerateToken(System.String)">
+            <summary>
+              Generate GWT Token 
+            </summary>
+            <param name="param">offer</param>
+            <returns></returns>
+        </member>
+        <member name="M:Cases.Web.Api.Controllers.OffersController.BidOffer(Case.Business.OfferRequestDTO)">
+            <summary>
+            Authorization Token Required
+            </summary>
+            <param name="offerRequestDTO"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Cases.Web.Api.Controllers.OffersController.BidOfferV2(Case.Business.OfferRequestDTO)">
+            <summary>
+            Authorization + Token Header required 
+            </summary>
+            <param name="offerRequestDTO"></param>
+            <returns></returns>
+        </member>
         <member name="P:Cases.Web.Api.Filters.CcsAuthorizeAttribute.BearerKey">
             <summary>
             this will have default bearer

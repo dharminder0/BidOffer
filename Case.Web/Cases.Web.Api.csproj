@@ -7,7 +7,7 @@
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
-    <DocumentationFile>C:\Users\fleek\source\repos\WebApplicationCore\WebApplicationCore\Cases.Web.Api.xml</DocumentationFile>
+    <DocumentationFile>D:\Projectothers\BidOffer\Case.Web\Cases.Web.Api.xml</DocumentationFile>
     <WarningLevel>0</WarningLevel>
   </PropertyGroup>
 
