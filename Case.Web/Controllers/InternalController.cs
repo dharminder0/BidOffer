@@ -13,6 +13,11 @@ namespace Cases.Web.Api.Controllers
     [ApiController]
     public class InternalController : ControllerBase
     {
+        /// <summary>
+        ///   Generate GWT Token 
+        /// </summary>
+        /// <param name="param">offer</param>
+        /// <returns></returns>
         [HttpGet]
         [CcsAuthorize(ValidationRequired = false)]
         [Route("GenerateToken")]
